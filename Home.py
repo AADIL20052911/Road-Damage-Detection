@@ -11,7 +11,7 @@ st.title("Road Damage Detection Application")
 
 st.markdown(
     """
-    Introducing our Road Damage Detection App, powered by the YOLOv8 deep learning model trained on Crowdsensing-based Road Damage Detection Challenge 2024 Dataset.
+    Introducing our Road Damage Detection App, powered by the YOLOv8 deep learning model trained on Crowdsensing-based Road Damage Detection Challenge 2022 Dataset.
     
     This application is designed to enhance road safety and infrastructure maintenance by swiftly identifying and categorizing various forms of road damage, such as potholes and cracks.
 
@@ -30,7 +30,7 @@ st.markdown(
     - You can reach me on aadilmohamed2911@gmail.com
 
     #### License and Citations
-    - Road Damage Dataset from Crowdsensing-based Road Damage Detection Challenge (CRDDC2024)
+    - Road Damage Dataset from Crowdsensing-based Road Damage Detection Challenge (CRDDC2022)
     - All rights reserved on YOLOv8 license permits by [Ultralytics](https://github.com/ultralytics/ultralytics) and [Streamlit](https://streamlit.io/) framework
 """
 )
