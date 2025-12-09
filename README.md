@@ -2,9 +2,6 @@
 
 This project is road damage detection applications that designed to enhance road safety and infrastructure maintenance by swiftly identifying and categorizing various forms of road damage, such as potholes and cracks.
 
-## Performing Detection Using Image
-![Detection using image](resource/RDD_Image_Example.gif)
-
 ## Performing Detection Using Video
 ![Detection using video](resource/RDD_Video_Example.gif)
 
